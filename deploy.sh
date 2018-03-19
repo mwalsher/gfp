@@ -2,7 +2,7 @@
 
 set -e
 
-GOOS=linux go build -o process_file process_file.go
+GOOS=linux go build -o process_file
 zip -o process_file.zip process_file
 
 export $(cat .env | xargs)

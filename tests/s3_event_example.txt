@@ -28,7 +28,7 @@
             },
             "object":{
                "key":"image.jpg",
-               "size":4311068,
+               "size":550634,
                "eTag":"b791c1b131a96d62a2226f47a9d2495f",
                "versionId":"096fKKXTRTtl3on89fVO.nfljtsv6qko"
             }
